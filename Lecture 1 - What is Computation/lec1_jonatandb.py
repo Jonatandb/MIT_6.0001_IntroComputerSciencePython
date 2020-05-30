@@ -42,3 +42,10 @@ a_very_long_variable_name_dont_name_them_this_long_pls = 1
 # use autocomplete to write a line that prints the value of that long variable
 # notice that Spyder also automatically adds the closed parentheses for you!
 print(a_very_long_variable_name_dont_name_them_this_long_pls)
+
+# Tipos de datos:
+# ---------------
+# Los valores escalares son aquellos que no podemos dividir o identificar sus partes:
+#   int, float, bool
+# Todos los demás son considerados objetos, porque constan de "partes":
+#   strings, arrays, diccionarios, etc
