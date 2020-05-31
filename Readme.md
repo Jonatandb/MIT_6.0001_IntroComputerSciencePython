@@ -19,7 +19,7 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-i
 
 [2 - Branching and Iteration](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-2-branching-and-iteration/)
 
-3 - String Manipulation, Guess and Check, Approximations, Bisection
+[3 - String Manipulation, Guess and Check, Approximations, Bisection](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-3-string-manipulation-guess-and-check-approximations-bisection/)
 
 4 - Decomposition, Abstractions, Functions
 
@@ -40,3 +40,9 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-i
 12 - Searching and Sorting
 
 ---
+
+<p align="center">
+    <a href="https://ko-fi.com/L3L31N4GV" target="_blank">
+            <img src="https://www.ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi"/>
+    </a>
+</p>
