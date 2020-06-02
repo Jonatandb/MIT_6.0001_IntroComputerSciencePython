@@ -21,9 +21,9 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-i
 
 [3 - String Manipulation, Guess and Check, Approximations, Bisection](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-3-string-manipulation-guess-and-check-approximations-bisection/)
 
-4 - Decomposition, Abstractions, Functions
+[4 - Decomposition, Abstractions, Functions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-4-decomposition-abstraction-and-functions/)
 
-5 - Tuples, Lists, Aliasing, Mutability, Cloning
+[5 - Tuples, Lists, Aliasing, Mutability, Cloning](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-5-tuples-lists-aliasing-mutability-and-cloning/)
 
 6 - Recursion, Dictionaries
 
