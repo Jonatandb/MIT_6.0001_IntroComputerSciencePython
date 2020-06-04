@@ -25,7 +25,7 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-i
 
 [5 - Tuples, Lists, Aliasing, Mutability, Cloning](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-5-tuples-lists-aliasing-mutability-and-cloning/)
 
-6 - Recursion, Dictionaries
+[6 - Recursion, Dictionaries](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-6-recursion-and-dictionaries)
 
 7 - Testing, Debugging, Exceptions, Assertions
 
