@@ -27,7 +27,7 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-i
 
 [6 - Recursion, Dictionaries](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-6-recursion-and-dictionaries)
 
-7 - Testing, Debugging, Exceptions, Assertions
+[7 - Testing, Debugging, Exceptions, Assertions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-7-testing-debugging-exceptions-and-assertions/)
 
 8 - Object Oriented Programming
 
