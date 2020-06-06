@@ -29,7 +29,7 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-i
 
 [7 - Testing, Debugging, Exceptions, Assertions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-7-testing-debugging-exceptions-and-assertions/)
 
-8 - Object Oriented Programming
+[8 - Object Oriented Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-8-object-oriented-programming/)
 
 9 - Python Classes and Inheritance
 
