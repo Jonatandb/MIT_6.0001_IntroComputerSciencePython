@@ -33,7 +33,7 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-i
 
 [9 - Python Classes and Inheritance](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-9-python-classes-and-inheritance/)
 
-10 - Understanding Program Efficiency, Part 1
+[10 - Understanding Program Efficiency, Part 1](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-10-understanding-program-efficiency-part-1/)
 
 11 - Understanding Program Efficiency, Part 2
 
