@@ -13,7 +13,7 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-i
 
 ---
 
-## SES # - TOPICS ASSIGNMENTS
+## Topics / Lecture Videos
 
 [1 - What is computation?](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-1-what-is-computation/)
 
@@ -38,6 +38,14 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-i
 [11 - Understanding Program Efficiency, Part 2](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-11-understanding-program-efficiency-part-2/)
 
 [12 - Searching and Sorting](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-12-searching-and-sorting/)
+
+---
+
+## Visited sites:
+
+numpy.log2
+
+- https://numpy.org/doc/stable/reference/generated/numpy.log2.html
 
 ---
 
