@@ -47,6 +47,38 @@ numpy.log2
 
 - https://numpy.org/doc/stable/reference/generated/numpy.log2.html
 
+Non-Programmer's Tutorial for Python 3/Hello, World
+
+- https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Hello,_World
+
+Non-Programmer's Tutorial for Python 3/Who Goes There?
+
+- https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Who_Goes_There%3F
+
+Python Programming/Basic Math
+
+- https://en.wikibooks.org/wiki/Python_Programming/Basic_Math
+
+NumPy_Example_List
+
+- https://scipy.github.io/old-wiki/pages/Numpy_Example_List.html
+
+NumPy Quickstart tutorial
+
+- https://numpy.org/doc/stable/user/quickstart.html?highlight=number%20list#
+
+NumPy Data types
+
+- https://numpy.org/doc/stable/user/basics.types.html
+
+Python Programming/Variables and Strings
+
+- https://en.wikibooks.org/wiki/Python_Programming/Variables_and_Strings
+
+Python Programming/Variables and Strings - Combining Numbers and Strings
+
+- https://en.wikibooks.org/wiki/Python_Programming/Variables_and_Strings#Combining_Numbers_and_Strings
+
 ---
 
 <p align="center">
